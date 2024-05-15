@@ -1,0 +1,6 @@
+#mapa {
+    position: relative; /* Posicionamento relativo para os pontos de clique */
+    background-image: url('mapa.jpg');
+    background-size: cover;
+  }
+  
